@@ -1,5 +1,6 @@
 # Metis-Project-1
 
+By: Zoey Herm, Max Staley, and Abishek Gollapudi
 
 ## Background 
 WTWY annual summer gala is coming up! 
